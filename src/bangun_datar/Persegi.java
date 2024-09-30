@@ -3,7 +3,7 @@ package bangun_datar;
 
 /**
  *
- * @author Shifaaun Nuriyah
+ * @author Shifaa
  */
 public class Persegi {
 
