@@ -8,6 +8,7 @@ package bangun_datar;
  *
  * @author MyBook Hype
  */
+
 public class Segitiga {
     double Sisi, alas, tinggi;
     double luas, keliling;
